@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 106e65e5cec302a47a0c1815821e07c3, type: 3}
+  m_Name: NOVA
+  m_EditorClassIdentifier: 
+  damage: 80
+  timeBetweenBullets: 0
+  timeBetweenShootAction: 1.06
+  bulletsFiredByShot: 1
+  IsWeaponAuto: 0
+  weaponSound: NOVA
+  pelletWeapon: 1
+  pellets: 10
+  magazineSize: 5
+  extraAmmo: 25
+  reloadTime: 1.06
+  movementSpeedMultipler: 0.85
+  horizontalSpread: 0.1
+  verticalSpread: 0.1
+  movementSpreadMultipler: 1.2
+  horizontalRecoil: 1
+  verticalRecoill: 2
+  inclinationRecoil: 1
